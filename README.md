@@ -38,7 +38,7 @@ It is designed to showcase end‑to‑end real‑world analytical skills for Dat
 ---
 
 ## 🧪 Python Analysis (analysis.py)  
-Includes:  
+**Includes:**  
 - Data cleaning  
 - KPI calculation  
 - Product category performance  
